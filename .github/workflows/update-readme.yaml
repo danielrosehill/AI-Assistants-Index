@@ -25,4 +25,4 @@ jobs:
       - name: Run script
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: python script.py
+        run: python scripts/index-maker.py
