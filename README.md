@@ -1,1 +1,1 @@
-# ai-assistants-index
+# AI Assistants Index
