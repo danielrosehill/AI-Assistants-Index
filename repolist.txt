@@ -1,1 +1,2 @@
 https://github.com/danielrosehill/Assistant-Configuration-Improver
+https://github.com/danielrosehill/Open-Web-UI-My-Models
